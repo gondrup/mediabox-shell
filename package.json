@@ -4,7 +4,7 @@
   "description": "A simple program launcher to replace the default shell on a media-box",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/gondrup/mediabox-shell/issues"
   },
-  "homepage": "https://github.com/gondrup/mediabox-shell#readme"
+  "homepage": "https://github.com/gondrup/mediabox-shell#readme",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
 }
