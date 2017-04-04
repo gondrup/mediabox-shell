@@ -1,0 +1,26 @@
+{
+  "name": "mediabox-shell",
+  "version": "1.0.0",
+  "description": "A simple program launcher to replace the default shell on a media-box",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gondrup/mediabox-shell.git"
+  },
+  "keywords": [
+    "shell",
+    "launcher",
+    "mediabox",
+    "kodi",
+    "explorer"
+  ],
+  "author": "Adrian Harding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gondrup/mediabox-shell/issues"
+  },
+  "homepage": "https://github.com/gondrup/mediabox-shell#readme"
+}
